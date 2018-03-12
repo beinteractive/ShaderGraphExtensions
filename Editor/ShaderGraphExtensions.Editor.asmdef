@@ -1,0 +1,12 @@
+{
+    "name": "ShaderGraphExtensions.Editor",
+    "references": [
+        "Unity.ShaderGraph.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
